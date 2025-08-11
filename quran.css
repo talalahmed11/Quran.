@@ -75,4 +75,23 @@ table {
     border-radius: 60px;
     
 }
-
+.container{
+    display: flex;
+    justify-content: center;
+}
+.container input{
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    height: 30px;
+    padding: 0 10px;
+}
+.container button {
+    background-color: goldenrod;
+    border-radius: 15px;
+    padding: 5px 15px;
+    border: none;
+    color: white;
+    position: relative;
+    height: 30px;
+}
